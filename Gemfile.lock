@@ -125,7 +125,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  html-proofer (~> 3.18)
+  html-proofer (~> 3.19)
   jekyll (~> 3.9)
   jekyll-assets (~> 3.0)
   jekyll-feed (~> 0.16)
